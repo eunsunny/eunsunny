@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://mazassumnida.wtf/api/v2/generate_badge?boj=machi8801)](https://solved.ac/machi8801/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunsunny&layout=compact)](https://github.com/eunsunny/github-readme-stats)

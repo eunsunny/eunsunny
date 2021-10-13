@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 현재 추가로 꾸미는 중입니다!!
+### 현재 블로그와 프로필 추가로 꾸미는 중입니다!!
 ### 你好👋、我是成恩仙还有这是我的Git-hub。请多多关照。
 <!--
 **eunsunny/eunsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
